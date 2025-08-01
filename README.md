@@ -1,29 +1,29 @@
-for freelance work? do reach, [email](mailto:abhishknads.work@gmail.com) :)
+# 👋 Hi there, I'm Kiroloes Reda
 
-📊 **this week i spent my time on:**
+🎓 I'm a **Computer Engineering student** at **Ain Shams University**.  
+💻 Passionate about **Web Development**, **Java**, and **Cybersecurity**.  
+🔭 Currently working on personal projects and looking for **freelance opportunities**.  
+📫 Reach me at: [kiroloesreda@gmail.com](mailto:kiroloesreda@gmail.com)
+
+---
+
+## 🔧 My Tech Stack
+
+- Frontend: **HTML**, **CSS**, **JavaScript**, **Bootstrap**, **Tailwind**
+- Backend (learning): **Java**, **Spring**, **Node.js**
+- Tools: **Git**, **GitHub**, **VS Code**, **Figma**
+- Learning: `Backend`, `Security`, `Advanced Java`
+
+---
+
+## 📊 This Week I Spent My Time On
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   20 hrs 47 mins  ████████████████████████░   95.97 %
-JSON         34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
-Python       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-Markdown     6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
-```
-
-<!--END_SECTION:waka-->
-
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  8,004 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
+JavaScript   12 hrs 30 mins  ████████████████████░░░░░   85.3 %
+HTML/CSS     1 hr 40 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.4 %
+JSON         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   2.6 %
+Other        10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.7 %
 
 📈 my github stats
 
