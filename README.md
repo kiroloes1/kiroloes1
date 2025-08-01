@@ -24,11 +24,3 @@ JavaScript   12 hrs 30 mins  █████████████████
 HTML/CSS     1 hr 40 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.4 %
 JSON         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   2.6 %
 Other        10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.7 %
-
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-
-
-
-
