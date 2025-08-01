@@ -67,12 +67,4 @@ Here are some things I've been working on:
 
 ---
 
-## ☕ Support My Work
 
-If you enjoy what I do and want to support me:
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/kiroloesreda" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" />
-  </a>
-</p>
