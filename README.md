@@ -1,43 +1,78 @@
-# 👋 Hi there, I'm Kiroloes Reda
+<h1 align="center">Hi there 👋, I'm Kiroloes Reda</h1>
 
-🎓 I'm a **Computer Engineering student** at **Ain Shams University**  
-💻 Passionate about **Web Development**, **Java**, and **Cybersecurity**  
-🔭 Currently working on personal projects and looking for **freelance opportunities**  
-📫 Reach me at: [kiroloesreda@gmail.com](mailto:kiroloesreda@gmail.com)
-
----
-
-## 🚀 Tech Stack & Tools
-
-### 💻 Programming Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" />
-</p>
-
-### 🛠️ Tools & Frameworks
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
+<p align="center">
+  🎓 Computer Engineering Student at Ain Shams University  
+  <br>
+  💻 Frontend Web Developer | Backend Learner | Cybersecurity Enthusiast  
+  <br>
+  📬 Reach me at: <a href="mailto:kiroloesreda@gmail.com">kiroloesreda@gmail.com</a>
 </p>
 
 ---
 
-## 📊 This Week I Spent My Time On
-<!--START_SECTION:waka-->
+## 💡 About Me
 
-```txt
-JavaScript   12 hrs 30 mins  ████████████████████░░░░░   85.3 %
-HTML/CSS     1 hr 40 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.4 %
-JSON         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   2.6 %
-Other        10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.7 %
+- 👨‍💻 I'm passionate about building dynamic and interactive web applications.
+- 🌱 Currently diving deeper into **Backend Development** and **Java Programming**.
+- 🧠 Learning about **Web Security** and **System Design**.
+- 🛠️ Love clean code, intuitive UI, and solving real-world problems.
+
+---
+
+## 🧰 My Tech Toolbox
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css" alt="Languages" />
+  <br><br>
+  <!-- Frameworks & Tools -->
+  <img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap,tailwind,vscode,git,github" alt="Frameworks and Tools" />
+</p>
+
+---
+
+## 🚀 My Projects
+
+Here are some things I've been working on:
+
+- 🎯 **Online Language Teaching Platform**  
+  A multi-language system with courses, teachers, and exams – built with Java and JavaFX.
+
+- 💼 **LapStore Website**  
+  A modern responsive e-commerce website using HTML, CSS, JavaScript, and Bootstrap.
+
+- 🔐 **GPS Location Project (Tiva C)**  
+  Embedded project for reading and processing GPS data with C and TM4C123G board.
+
+> More projects coming soon...
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="mailto:kiroloesreda@gmail.com"><img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://github.com/kiroloes1"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
+  <!-- Add more if you want -->
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kiroloes1&show_icons=true&theme=tokyonight&hide=issues&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kiroloes1&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+## ☕ Support My Work
+
+If you enjoy what I do and want to support me:
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/kiroloesreda" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" />
+  </a>
+</p>
