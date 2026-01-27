@@ -22,12 +22,26 @@
 ## 🧰 My Tech Toolbox
 
 <p align="center">
-  <!-- Languages -->
+  <!-- Programming Languages -->
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css" alt="Languages" />
   <br><br>
-  <!-- Frameworks & Tools -->
-  <img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap,tailwind,vscode,git,github" alt="Frameworks and Tools" />
+
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" alt="Frontend" />
+  <br><br>
+
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend" />
+  <br><br>
+
+  <!-- Database -->
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="Database" />
+  <br><br>
+
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools" />
 </p>
+
 
 ---
 
