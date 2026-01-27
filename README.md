@@ -45,20 +45,27 @@
 
 ---
 
-## 🚀 My Projects
+🚀 My Projects
 
 Here are some things I've been working on:
 
-- 🎯 **Online Language Teaching Platform**  
-  A multi-language system with courses, teachers, and exams – built with Java and JavaFX.
+🎯 Online Language Teaching Platform
+A full educational system supporting multiple languages, teachers, courses, lessons, and exams.
+Built with Java & JavaFX, focusing on OOP principles and clean architecture.
 
-- 💼 **LapStore Website**  
-  A modern responsive e-commerce website using HTML, CSS, JavaScript, and Bootstrap.
+💼 LapStore E-Commerce Website
+A modern, responsive e-commerce website built using HTML, CSS, JavaScript, and Bootstrap.
+Includes product listing, UI interactions, and responsive design.
 
-- 🔐 **GPS Location Project (Tiva C)**  
-  Embedded project for reading and processing GPS data with C and TM4C123G board.
+🏥 Pharmacy Management System
+A complete system for managing medicines, sales, inventory, and users.
+Designed to simulate real-world pharmacy workflows and data management.
 
-> More projects coming soon...
+🧾 Static Websites Collection
+A set of static web pages built with HTML & CSS to practice layout, responsiveness, and UI structure.
+
+📡 GPS Location Project (Tiva C – Embedded Systems)
+An embedded systems project for reading and processing GPS data using C on the TM4C123G (Tiva C) LaunchPad.> More projects coming soon...
 
 ---
 
