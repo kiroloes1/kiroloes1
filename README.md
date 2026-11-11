@@ -1,91 +1,166 @@
-<h1 align="center">Hi there 👋, I'm Kiroloes Reda</h1>
+# Hi, I'm Kiroles Reda 👋
+
+### Computer Engineering Student | Full-Stack Developer | Mobile App Developer | AI Enthusiast
 
 <p align="center">
-  🎓 Computer Engineering Student at Ain Shams University  
-  <br>
-  💻 Frontend Web Developer | Backend Learner | Cybersecurity Enthusiast  
-  <br>
-  📬 Reach me at: <a href="mailto:kiroloesreda@gmail.com">kiroloesreda@gmail.com</a>
+  <a href="mailto:kiroloesreda@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/kiroloes1">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/kiroloes-reda-50a2a235/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
 ---
 
-## 💡 About Me
+## 👨‍💻 About Me
 
-- 👨‍💻 I'm passionate about building dynamic and interactive web applications.
-- 🌱 Currently diving deeper into **Backend Development** and **Java Programming**.
-- 🧠 Learning about **Web Security** and **System Design**.
-- 🛠️ Love clean code, intuitive UI, and solving real-world problems.
+I'm a Computer Engineering student at **Ain Shams University**, passionate about software engineering, building scalable applications, and exploring Artificial Intelligence.
+
+I enjoy developing complete software solutions, from designing responsive user interfaces to building backend systems, REST APIs, database architectures, and mobile applications.
+
+- 💻 Full-Stack Web Development using React, Next.js, Node.js, and Express.
+- 📱 Mobile Application Development with React Native.
+- ⚙️ Backend Development, REST APIs, Authentication, and Database Design.
+- 🤖 Exploring AI, Machine Learning, and AI-powered application integration.
+- 🔐 Interested in Cybersecurity, Web Security, and System Design.
+- 🧠 Strong interest in Problem Solving, OOP, and Data Structures & Algorithms.
+- 🚀 Building real-world projects and collaborating on software products.
 
 ---
 
-## 🧰 My Tech Toolbox
+## 🛠️ Technical Skills
 
-<p align="center">
-  <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css" alt="Languages" />
-  <br><br>
-
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" alt="Frontend" />
-  <br><br>
-
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend" />
-  <br><br>
-
-  <!-- Database -->
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="Database" />
-  <br><br>
-
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools" />
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts" />
 </p>
 
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,bootstrap,tailwind" />
+</p>
+
+### Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
+
+### Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+**React Native | Expo | Mobile UI Development | API Integration**
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+</p>
+
+### AI & Data Science
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+**Technologies & Concepts:**
+- Machine Learning & Deep Learning Fundamentals
+- Artificial Intelligence Integration
+- Pandas & Data Analysis
+- Neural Networks
+- LLMs & AI-powered Applications
+
+### Tools & Development Environment
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux" />
+</p>
+
+**Also familiar with:** REST APIs, JSON, GitHub Actions, JavaFX, and Embedded Systems (Tiva C).
 
 ---
 
-🚀 My Projects
+## 🚀 Featured Projects
 
-Here are some things I've been working on:
+### 1. Business Management & ERP Systems
+Developing business management solutions with features such as:
+- Inventory and product management.
+- Sales, purchases, and invoice management.
+- Financial transactions and reporting.
+- User authentication and role-based access control.
+- Backend APIs and database integration.
 
-🎯 Online Language Teaching Platform
-A full educational system supporting multiple languages, teachers, courses, lessons, and exams.
-Built with Java & JavaFX, focusing on OOP principles and clean architecture.
+**Technologies:** React, Node.js, Express, MongoDB.
 
-💼 LapStore E-Commerce Website
-A modern, responsive e-commerce website built using HTML, CSS, JavaScript, and Bootstrap.
-Includes product listing, UI interactions, and responsive design.
+### 2. SaaS & AI-Powered Applications
+Collaborating with a development team to build software products and explore AI integration into business applications.
 
-🏥 Pharmacy Management System
-A complete system for managing medicines, sales, inventory, and users.
-Designed to simulate real-world pharmacy workflows and data management.
+**Focus:** Full-Stack Development, REST APIs, Database Design, AI Integration.
 
-🧾 Static Websites Collection
-A set of static web pages built with HTML & CSS to practice layout, responsiveness, and UI structure.
+### 3. Online Language Teaching Platform
+A complete educational application supporting multiple languages, teachers, courses, lessons, and exams.
 
-📡 GPS Location Project (Tiva C – Embedded Systems)
-An embedded systems project for reading and processing GPS data using C on the TM4C123G (Tiva C) LaunchPad.> More projects coming soon...
+**Technologies:** Java, JavaFX, OOP.
+
+### 4. LapStore – E-Commerce Website
+A responsive e-commerce website featuring product listings, interactive UI components, and responsive layouts.
+
+**Technologies:** HTML, CSS, JavaScript, Bootstrap.
+
+### 5. Pharmacy Management System
+A management system for handling medicines, sales, inventory, and user operations.
+
+**Focus:** Business Logic, Data Management, Application Development.
+
+### 6. GPS Location Project – Embedded Systems
+An embedded systems project for reading and processing GPS data using the TM4C123G (Tiva C) LaunchPad.
+
+**Technologies:** C, Embedded Systems, Tiva C.
 
 ---
 
-## 🤝 Let's Connect
+## 📚 Currently Learning & Exploring
+
+- Advanced Backend Development and System Design.
+- React Native and Cross-Platform Mobile Development.
+- Machine Learning and Deep Learning.
+- FastAPI and Python Data Analysis.
+- Cybersecurity and Web Application Security.
+- Software Architecture and Scalable Applications.
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <a href="mailto:kiroloesreda@gmail.com"><img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://github.com/kiroloes1"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
-  <!-- Add more if you want -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kiroloes1&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=kiroloes1&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiroloes1&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 🤝 Let's Connect!
+
+I'm always interested in learning new technologies, collaborating on interesting projects, and connecting with developers.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kiroloes1&show_icons=true&theme=tokyonight&hide=issues&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kiroloes1&theme=tokyonight" width="48%" />
+  <a href="mailto:kiroloesreda@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/kiroloes1">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/kiroloes-reda-50a2a235/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
----
-
-
+<p align="center">
+  <b>Building. Learning. Improving. One project at a time. 🚀</b>
+</p>
